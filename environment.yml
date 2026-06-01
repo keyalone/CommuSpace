@@ -1,0 +1,16 @@
+name: CommuSpace
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numba=0.61.2
+  - numpy=1.26.4
+  - pip=25.3
+  - python=3.10.19
+  - squidpy==1.6.5
+  - pip:
+      - tensorly==0.9.0
+      - kneed==0.8.5
+      - igraph==0.11.9
+      - scanpy[louvain]==1.11.5
+
