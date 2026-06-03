@@ -41,7 +41,7 @@ To install **CommuSpace**, please follow these steps:
     ```
 
 ## Reproducibility
-To facilitate usability and reproducibility of our results, we have uploaded all data used in this study to [Zenodo](https://zenodo.org/records/15458645) for public access.
+To facilitate usability and reproducibility of our results, we have uploaded all data used in this study to [Zenodo](https://zenodo.org/records/20519325) for public access.
 
 We provide source codes for reproducing the CommuSpace analysis in the main text in the `demos` directory.
 
